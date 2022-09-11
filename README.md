@@ -20,5 +20,6 @@
 
 ## Related Links
 
+- Slide: https://docs.google.com/presentation/d/1hVSn-5n-6QEQxKx0cRs8DwkkrJ_x2PRqPS8ErK-e3y8
 - Template: https://github.com/thinc-org/first-act-frontend-template-2022
 - Sample API: https://firstact-api.thinc.in.th/docs (Source code available at https://github.com/thinc-org/first-act-frontend-api-2022)
